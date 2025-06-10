@@ -1,0 +1,15 @@
+# Node.js (backend)
+backend/node_modules/
+backend/.env
+
+# React Native (mobile)
+mobile/node_modules/
+mobile/android/.gradle/
+mobile/ios/Pods/
+mobile/.expo/
+mobile/.env
+
+# Global
+*.log
+.DS_Store
+.env
