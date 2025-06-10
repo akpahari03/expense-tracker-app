@@ -5,6 +5,8 @@ A full-stack smart expense tracking application with a **React Native (Expo)** f
 
 ![App Preview](/mobile/assets/images/expense-tracker-bg.png)
 
+<div style="position: relative; padding-bottom: 64.98194945848375%; height: 0;"><iframe src="https://www.loom.com/embed/96b22f14ef2f4c31a722f7a5d3f58b89?sid=27c48d42-e508-4869-9abf-318141611bcd" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ## Features
 
 ### 📱 Mobile (Frontend - React Native)
