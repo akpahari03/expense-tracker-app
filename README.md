@@ -2,6 +2,9 @@
 
 A full-stack smart expense tracking application with a **React Native (Expo)** frontend and an **Express.js** backend. It allows users to create, manage, and analyze personal expenses with support for authentication, rate-limiting, and scheduled jobs.
 
+
+![App Preview](/mobile/assets/images/expense-tracker-bg.png)
+
 ## Features
 
 ### 📱 Mobile (Frontend - React Native)
@@ -72,8 +75,13 @@ Ensure you set the correct `API_URL` in `constants/api.js` to match your backend
 
 ## License
 
-[ISC](https://opensource.org/licenses/ISC)
+[MIT License](LICENSE)
 
 ---
 
-Built with ❤️ using Expo and Express.
+## Contact
+
+Ayush Kumar Pahari
+- Email: ak.pahari03@gmail.com
+- GitHub: [@akpahari03](https://github.com/akpahari03)
+- LinkedIn: [Ayush Kumar Pahari](https://www.linkedin.com/in/ayush-kumar-pahari-465090224/)
